@@ -14,6 +14,7 @@ _ Install ChromeDriver and Chrome.
 _ Go to project and run: mvn test
  
  
+ 
 2. Non MacBook M1
 _ Install Docker.
 
