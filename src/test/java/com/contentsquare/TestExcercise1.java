@@ -49,7 +49,10 @@ public class TestExcercise1 {
 
     @Test
     public void testLogin() {
-
+        /** 
+            Use the website http://main.ctqatest.info/test.php  and perform the following tasks.
+            Go to the login page and enter the username as test@test.com and password as ThisIs@T3st. Check if there is an error displayed.
+        /**/ 
     }
 
 }
