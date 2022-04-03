@@ -3,7 +3,8 @@ This is a template automation project with Java and Selenium.
 
 There are 2 options to run the project.
 
-1. MacBook M1
+**1. MacBook M1
+**
 
 _ Install jdk 17 or 18.
 
@@ -15,7 +16,9 @@ _ Go to project and run: mvn test
  
  
  
-2. Non MacBook M1
+**2. Non MacBook M1
+**
+
 _ Install Docker.
 
 _ Run: docker build -t java-poc .
