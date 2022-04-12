@@ -46,13 +46,4 @@ public class TestExcercise1 {
         WebElement spanElement = expandRootElement.findElement(By.cssSelector("span"));
         Assert.assertEquals("This is a demo website for testing purpose", spanElement.getText());
     }
-
-    @Test
-    public void testLogin() {
-        /** 
-            Use the website http://main.ctqatest.info/test.php  and perform the following tasks.
-            Go to the login page and enter the username as test@test.com and password as ThisIs@T3st. Check if there is an error displayed.
-        /**/ 
-    }
-
 }
